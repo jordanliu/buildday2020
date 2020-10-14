@@ -8,7 +8,6 @@
 import React from "react"
 import PropTypes from "prop-types"
 import Helmet from "react-helmet"
-import favicon from "../images/favicon.ico"
 import { useStaticQuery, graphql } from "gatsby"
 
 function SEO({ description, lang, meta, keywords, title }) {
@@ -78,7 +77,6 @@ function SEO({ description, lang, meta, keywords, title }) {
             : []
         )
         .concat(meta)}
-      link={[{ rel: "icon", type: "image/png", href: favicon }]}
     />
   )
 }

@@ -1,13 +1,13 @@
 {
-  "name": "gatsby-starter-landing-page",
+  "name": "builday",
   "private": true,
-  "description": "A simple starter to create a minimal landing page with Gatsby",
+  "description": "DevC Kingston Build Day 2020",
   "version": "0.1.0",
-  "author": "Kyle Gill <kyle.robert.gill@gmail.com>",
   "dependencies": {
     "gatsby": "^2.1.37",
     "gatsby-image": "^2.0.34",
     "gatsby-plugin-google-analytics": "^2.0.17",
+    "gatsby-plugin-manifest": "^2.4.34",
     "gatsby-plugin-react-helmet": "^3.0.10",
     "gatsby-plugin-sharp": "^2.0.29",
     "gatsby-plugin-sitemap": "^2.0.10",
