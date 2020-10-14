@@ -7,7 +7,7 @@ const CallToAction = () => (
   <div style={{ padding: "4rem 1rem", textAlign: "center" }}>
     <SectionHeader
       title="What is Build Day?"
-      description="Developer Circles Communtiy Challenge 2020"
+      description="Developer Circles Community Challenge 2020"
     />
     <a href="https://developercircles2020.devpost.com/">
       <Button>Learn More</Button>
