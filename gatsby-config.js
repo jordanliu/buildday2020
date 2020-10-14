@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
     title: `Build Day 2020 - DevC Kingston`,
-    description: `A barebone landing page starter with some minimal styles.`,
-    author: `@gillkyle`,
-    siteUrl: `https://gatsby-starter-landing-page.netlify.com`,
+    description: `Build days are virtual events where developers can come together, form teams, and code together in order to create projects for a challenge.`,
+    author: `@DevC-Kingston`,
+    siteUrl: `https://buildday.devckingston.com`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
